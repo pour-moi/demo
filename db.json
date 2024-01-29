@@ -1,44 +1,44 @@
 {
    "posts": [
-    {
-        "id": 1,
-        "name": "Aya Nakamura",
-        "songName": "Djadja"
-    },
-    {
-        "id": 2,
-        "name": "Aya Nakamura",
-        "songName": "Pookie"
-    },
-    {
-        "id": 3,
-        "name": "Aya Nakamura",
-        "songName": "La Dot"
-    },
-   {
-    "id": 4,
-    "name": "Ed Sheeran",
-    "songName": "Shape of You",
-  },
-  {
-    "id": 5,
-    "name": "Ed Sheeran",
-    "songName": "Perfect",
-  },
-  {
-    "id": 6,
-    "name": "Dua Lipa",
-    "songName": "Levitating",
-  },
-  {
-    "id": 7,
-    "name": "Dua Lipa",
-    "songName": "Don't Start Now",
-  },
-  {
-    "id": 8,
-    "name": "The Weeknd",
-    "songName": "Blinding Lights"
-  }
+      {
+         "id": 1,
+         "name": "Aya Nakamura",
+         "songName": "Djadja"
+      },
+      {
+         "id": 2,
+         "name": "Aya Nakamura",
+         "songName": "Pookie"
+      },
+      {
+         "id": 3,
+         "name": "Aya Nakamura",
+         "songName": "La Dot"
+      },
+      {
+         "id": 4,
+         "name": "Ed Sheeran",
+         "songName": "Shape of You"
+      },
+      {
+         "id": 5,
+         "name": "Ed Sheeran",
+         "songName": "Perfect"
+      },
+      {
+         "id": 6,
+         "name": "Dua Lipa",
+         "songName": "Levitating"
+      },
+      {
+         "id": 7,
+         "name": "Dua Lipa",
+         "songName": "Don't Start Now"
+      },
+      {
+         "id": 8,
+         "name": "The Weeknd",
+         "songName": "Blinding Lights"
+      }
    ]
 }
