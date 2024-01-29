@@ -14,6 +14,31 @@
         "id": 3,
         "name": "Aya Nakamura",
         "songName": "La Dot"
-    }
+    },
+   {
+    id: 3,
+    name: "Ed Sheeran",
+    songName: "Shape of You",
+  },
+  {
+    id: 4,
+    name: "Ed Sheeran",
+    songName: "Perfect",
+  },
+  {
+    id: 5,
+    name: "Dua Lipa",
+    songName: "Levitating",
+  },
+  {
+    id: 6,
+    name: "Dua Lipa",
+    songName: "Don't Start Now",
+  },
+  {
+    id: 7,
+    name: "The Weeknd",
+    songName: "Blinding Lights",
+  }
    ]
 }
