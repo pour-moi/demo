@@ -1,12 +1,16 @@
 [
     {
-        "id": 1,
-        "name": "Aya Nakamura",
-        "songName": "Djadja"
+        "music": {
+            "id": 1,
+            "name": "Aya Nakamura",
+            "songName": "Djadja"
+        }
     },
     {
-        "id": 2,
-        "name": "Aya Nakamura",
-        "songName": "Pookie"
+        "music": {
+            "id": 2,
+            "name": "Aya Nakamura",
+            "songName": "Pookie"
+        }
     }
 ]
