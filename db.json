@@ -1,4 +1,5 @@
-[
+{
+   "posts": [
     {
         "id": 1,
         "name": "Aya Nakamura",
@@ -14,4 +15,5 @@
         "name": "Aya Nakamura",
         "songName": "La Dot"
     }
-]
+   ]
+}
